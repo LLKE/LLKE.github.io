@@ -26,39 +26,39 @@ Systems and Automation, M.Sc.
 
 <i class="fa-solid fa-location-dot"></i> Stuttgart  
 **<span style="font-size: x-large;">Bosch</span>**  *06 - 07 2016*   
-<span style="color:#0047AB;"> *Internship* </span>   
+<span style="color:#3396FF;"> *Internship* </span>   
 A glimpse into how a large-scale company runs. Acquired skills in metal works, using a lathe,
 drill, milling machines and different welding techniques.
 
 <i class="fa-solid fa-location-dot"></i> Aachen   
 **<span style="font-size: x-large;">Ecurie Aix</span>** *2018 - 2020*  
-<span style="color:#0047AB;">*Driverless Software Engineer (Volunteer)*</span>    
+<span style="color:#3396FF;">*Driverless Software Engineer (Volunteer)*</span>    
 Development of the localization and mapping (SLAM) system of the driverless vehicle of
 Ecurie Aix (part of the Formula Student competition). Development in C++, Python, ROS.
 Travelling around Europe to compete.
 
 <i class="fa-solid fa-location-dot"></i> Aachen   
 **<span style="font-size: x-large;">Institute of Automatic Control</span>**  *01 - 11 2018*  
-<span style="color:#0047AB;"> *Academic Assistant* </span>  
+<span style="color:#3396FF;"> *Academic Assistant* </span>  
 Software development in robotics, computer vision, augmented reality and visual attitude
 estimation in medical research. Experience in C++, ROS, Linux.
 
 <i class="fa-solid fa-location-dot"></i> Aachen   
 **<span style="font-size: x-large;">Institute for Man-Machine Interaction</span>** *04 - 09 2020*  
-<span style="color:#0047AB;"> *Academic Assistant* </span>  
+<span style="color:#3396FF;"> *Academic Assistant* </span>  
 Supervisor of a programming laboratory (in which students studying electrical engineering
 at the RWTH Aachen learn the foundations of C++). Deepening C++ knowledge and gaining
 experience teaching.
 
 <i class="fa-solid fa-location-dot"></i> Aachen   
 **<span style="font-size: x-large;">Domino's Pizza</span>**  *2022 - 2023*     
-<span style="color:#0047AB;"> *Shift Manager* </span>   
+<span style="color:#3396FF;"> *Shift Manager* </span>   
 Leading the shift, being responsible for the shift’s smooth operation. Gaining experience in
 team leadership.
 
 <i class="fa-solid fa-location-dot"></i> Aachen  
 **<span style="font-size: x-large;">German Aerospace Centre (DLR)</span>**  *since 2023*   
-<span style="color:#0047AB;"> *Software Development Assistant* </span>  
+<span style="color:#3396FF;"> *Software Development Assistant* </span>  
 Developing a UI for a ground-based pilot piloting an unmanned gyrocopter. Experience in
 GUI creation with Qt-Creator and QML.
 
