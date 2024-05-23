@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-Hi! <i class="fa-solid fa-face-smile-beam"></i> My name is Laurens Keuker
+Welcome! My name is Laurens Keuker.
 ======================================================================================================================================
 
 Aspiring Autonomous Systems Engineer
