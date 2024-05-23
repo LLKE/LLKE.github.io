@@ -25,7 +25,7 @@ Systems and Automation, M.Sc.
 ---
 
 <i class="fa-solid fa-location-dot"></i> Stuttgart  
-<a href="{% post_url 24-02-26-bosch %}" style="text-decoration: none; color: inherit;">**<span style="font-size: x-large;">Bosch</span>**</a>  *06 - 07 2016*   
+**<span style="font-size: x-large;">Bosch</span>** *06 - 07 2016*   
 <span style="color:#3396FF;"> *Internship* </span>   
 A glimpse into how a large-scale company runs. Acquired skills in metal works, using a lathe,
 drill, milling machines and different welding techniques.
@@ -38,7 +38,7 @@ Ecurie Aix (part of the Formula Student competition). Development in C++, Python
 Travelling around Europe to compete.     
 
 <i class="fa-solid fa-location-dot"></i> Aachen   
-<a href="{% post_url 24-02-26-irt %}" style="text-decoration: none; color: inherit;">**<span style="font-size: x-large;">Institute of Automatic Control</span>**</a>  *01 - 11 2018*  
+**<span style="font-size: x-large;">Institute of Automatic Control</span>**  *01 - 11 2018*  
 <span style="color:#3396FF;"> *Academic Assistant* </span>  
 Software development in robotics, computer vision, augmented reality and visual attitude
 estimation in medical research. Experience in C++, ROS, Linux.
