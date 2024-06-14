@@ -6,12 +6,8 @@ platforms:
   # Uncomment below if you need to.
   #
   - type: Linkedin
-    icon: "fab fa-linkedin"
-    link: "https://www.linkedin.com/sharing/share-offsite/?url=www.linkedin.com/in/laurens-keuker"
-  #
-  # - type: Weibo
-  #   icon: "fab fa-weibo"
-  #   link: "http://service.weibo.com/share/share.php?title=TITLE&url=URL"
+    icon: "fa-brands fa-linkedin"
+    link: "https://www.linkedin.com/sharing/share-offsite/?url=www.linkedin.com/in/laurens-keuker"           
   #
   # - type: Mastodon
   #   icon: "fa-brands fa-mastodon"

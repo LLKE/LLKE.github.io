@@ -38,11 +38,12 @@ social:
   email: laurens.keuker@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username # change to your twitter homepage
-    - https://github.com/LLKE # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    # - https://github.com/LLKE # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/laurens-keuker
+    #- https://www.linkedin.com/in/laurens-keuker     
+    - https://llke.github.io/about/         
 
 google_site_verification: # fill in to your verification string
 
@@ -88,11 +89,11 @@ comments:
   disqus:
     shortname: 
   # utterances settings › https://utteranc.es/
-  utterances:
-    repo:                "LLKE/LLKE.github.io"
-    issue-term:          "url"
-    label:               "Comments"
-    theme:               "github-dark"
+  # utterances:
+  #   repo:                "LLKE/LLKE.github.io"
+  #   issue-term:          "url"
+  #   label:               "Comments"
+  #   theme:               "github-dark"
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>

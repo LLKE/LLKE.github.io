@@ -15,8 +15,9 @@ I'm an electrical engineering, information technology, and computer science stud
 **My dream is to use my skillset to make the world a greener, cleaner and healthier place.**
 
 * <i class="fa-solid fa-earth-africa"></i>  I'm based in Aachen, Germany
+* <i class="fa-solid fa-earth-africa"></i>  I'm from in Cape Town, South Africa
 * <i class="fa-solid fa-envelope"></i>  You can contact me at [laurens.keuker@gmail.com](mailto:laurens.keuker@gmail.com)
-* <i class="fa-solid fa-school"></i>  I'm currently learning about embedded systems.
+* <i class="fa-solid fa-school"></i>  I'm currently learning about autonomous drone software.
 * <i class="fa-solid fa-handshake"></i>  I'm open to collaborating on anything to do with autonomous vehicles (sky, space, water or ground) or automation.
 
 ## Skills  

@@ -1,4 +1,5 @@
 ---
+title: Curriculum Vitae
 icon: fas fa-solid fa-file-lines
 order: 2
 ---
