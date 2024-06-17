@@ -51,8 +51,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
-
+  id: G-X9M8Y0X9TF
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
