@@ -52,6 +52,7 @@ google_site_verification: # fill in to your verification string
 
 google_analytics:
   id: G-X9M8Y0X9TF
+  
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,

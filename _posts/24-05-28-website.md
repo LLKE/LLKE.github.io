@@ -370,6 +370,20 @@ Next, install Utterances on your website's GitHub repo by opening GitHub Marketp
 Now, whenever someone comments on a post, Utterances will create an issue in your websites GitHub repo for that post and let people comment on it. 
 ![alt text](/media/personal_website/issue.png)
 
+## Setting Up Google Analytics
+
+Wanna know how massively popular your website has become? That's actually pretty easy to find out (apart from checking the comments). You can simply add Google Analytics to your site, which is easily configurable in the `_config.yml` file. 
+
+First, set up a [Google Analytics](https://marketingplatform.google.com/about/analytics/) account. Click on "Get started today" and follow the instructions. It will ask you to create a property name somewhere along the way. A property is basically a folder, where you can view all the tracking data for your specific website. 
+Once done, you have created a web stream, through which Google Analytics can receive traffic data from your site. The only thing left to be done now, is to copy the stream's measurement ID into the according place in the `_config.yml` file. 
+```yml
+google_analytics:
+  id: # Paste measurement ID here
+``` 
+{: file='_config.yml'}
+
+This measurement ID should be displayed to you right after you created the web stream. If not, click Settings in the bottom left corner, then under Property Settings → Data Collection and Modification → Data Streams. If everything went as expected, you should see user data from your website, which you can view under the "Home" tab. If you don't have insane amounts of traffic like I do, go ahead and visit your own website to see if Google Analytics captures it (definitely not what I did).
+
 ## Troubleshooting
 
 While most problems I encountered were already discussed above, here are a few issues I stumbled upon, that happened to me now and again and that I would like to highlight. If you encounter any other issues, let me know in the comments. Chances are I have already encoutered those as well and forgotten to add them here.
