@@ -33,6 +33,7 @@ image:
 > + How to create and add a CV using markdown
 > + How to add a favicon 
 > + How to add comments
+> + How to check site traffic using Google Analytics
 > + Troubleshooting common issues
 {: .prompt-tip }
 
