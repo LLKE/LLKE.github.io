@@ -31,3 +31,28 @@ So now I have finally gotten around to it. It has taken only eight years. But ra
 Now, of course, being someone that is most intrigued by systems that do things by themselves (i.e. autonomous systems), I didn't just want to build a remote controlled robot. I saw the opportunity to get some practical experience on the mystical and crucial topic that is control. Something I have spent (and will still spend) months intensively studying for on paper during my studies, but have never actually used in a practical sense. 
 
 So I decided that my very first project should be a **self-balancing robot**. 
+
+When I started googling how to actually build a self balancing robot, I was hoping to find some tutorials or some explanations on how to do so. And while there were a few, those that I found were mainly just instructions, no real explanation of why what cable goes where and how to actually design such a device. While that may have worked, simply blindly following instructions was absolutely not what what I was looking for. Additionally, there where lists of what parts to buy for the project, and I regularly either didn't find the exact parts or wasn't certain if the parts I did find would actually work together. Furthermore, I still had an Arduino starter kit lying around that I had bought with the same thoughts of learning embedded programming five years earlier and had never touched. And I saw so many different types of self-balancing robots, that I decided: If they can build one without a tutorial, why can't I? Apart from the fact that I have almost no hardware or embedded experience at this point. But I wasn't going to let that stop me. I'll use what I have and order anything I need. 
+
+That's what I did. I took a rough look at some of the tutorials to find out what items were essential to get started and go from there. Here's what I got with the first shipment:
+
+1. [2x 6V geared DC motors, including wheels (Joy-It COM MOTOR03)](https://www.reichelt.de/mini-metallgetriebemotor-inkl-rad-und-halter-com-motor03-p258664.html)
+2. [1x 3 axis gyroscope and 3 axis accelerometer (DEBO SENS 3AXIS, GY-521 board, MPU 6050 chip)](https://www.reichelt.de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
+3. [1x on/off switch (Goobay 10013)](https://www.reichelt.de/miniatur-kippschalter-ein-aus-3-a-125-v-goobay-10013-p359360.html?&trstct=pos_0&nbc=1)
+4. [1x 2 channel DC motor driver (DRV8833)](https://www.roboter-bausatz.de/p/2-kanal-drv8833-dc-motor-treiber-modul-3v-10v-1.5a-h-bruecke)
+5. [2x DC-DC step up (XL6009)](https://www.roboter-bausatz.de/p/spannungswandler-xl6009-dc-dc-step-up-modul)
+6. [Some jumper wires](https://www.roboter-bausatz.de/p/jumperkabel-sortiment-mit-verzinnten-enden-130-stueck)
+
+At the point of writing this, I do not know if the parts will work together, nor do I know what parts I am missing. I looked at the specs, voltages, currents etc., and to my theoretical electrical engineering mind, they make sense, so lets see! Keep reading (especially if you are following along) to find out 😎.
+
+For the sake of our collective learning, I will now provide a more detailed description of each of the parts. 
+
+### Geared DC Motor
+
+As the name implies, this is a DC motor that is geared. The gears reduce the motor's speed and therefore increase its torque. This is necessary to make small and strong adjustments that the robot need to keep its balance, especially considering the weight of all the components it carries. A slower motor also allows for finer, more precise control. 
+
+This particular robot needs a 6V supply voltage and 160mA of supply current, and can achieve 300rpm. 
+
+### IMU
+
+Needed to sense the movement of the robot. The actual sensing is done by the MPU 6050 chip, which is a MEMS device (micro-electro-mechanical-system) device containing a 3 axis gyroscope and a 3 axis accelerometer. It is housed on the GY-521 breakout board, which provides an interface to the chip for jumper wires and voltage regulation, among other things. It is a generic board design that is manufactured by DEBO SENS in my case.
