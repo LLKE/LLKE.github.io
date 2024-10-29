@@ -51,8 +51,28 @@ For the sake of our collective learning, I will now provide a more detailed desc
 
 As the name implies, this is a DC motor that is geared. The gears reduce the motor's speed and therefore increase its torque. This is necessary to make small and strong adjustments that the robot need to keep its balance, especially considering the weight of all the components it carries. A slower motor also allows for finer, more precise control. 
 
-This particular robot needs a 6V supply voltage and 160mA of supply current, and can achieve 300rpm. 
+This particular motor needs a 6V supply voltage and 160mA of supply current, and can achieve 300rpm. 
 
 ### IMU
 
-Needed to sense the movement of the robot. The actual sensing is done by the MPU 6050 chip, which is a MEMS device (micro-electro-mechanical-system) device containing a 3 axis gyroscope and a 3 axis accelerometer. It is housed on the GY-521 breakout board, which provides an interface to the chip for jumper wires and voltage regulation, among other things. It is a generic board design that is manufactured by DEBO SENS in my case.
+Needed to sense the movement of the robot. The actual sensing is done by the MPU 6050 chip, which is a MEMS device (micro-electro-mechanical-system) containing a 3 axis gyroscope and a 3 axis accelerometer. It is housed on the GY-521 breakout board, which provides an interface to the chip for jumper wires and voltage regulation, among other things. It is a generic board design that is manufactured by DEBO SENS in my case.
+
+### On/Off Switch
+
+On/Off switch. Nuff said.
+
+### 2 Channel DC Motor Driver
+
+The DRV8833 acts as the interface between the Arduino and the 2 motors. It controls their speed, direction and torque. It amplifies the low-power control systems of the Arduino to provide the power to drive the motors. It contains two NMOS H-bridge drivers. Due to the fact that the drivers are constructed of MOSFET transistors instead of bipolar junction transistors (BJTs), they are  more efficient than BJT based drivers. At least on paper, I don't have any practical experience to back that.
+
+### DC-DC Step Up
+
+Increases one DC voltage to a higher one. I saw that this was needed in a tutorial and I am not yet sure when exactly I will need it. If you are just as interested as me, keep reading! I never thought I would write a detective story, but here we are 🕵️. 
+
+### Jumper Wires
+
+Unfortunately, motors powered by bluetooth don't exist yet.
+
+## Step 1: Controlling DC Motors With the Motor Drivers
+
+https://lastminuteengineers.com/drv8833-arduino-tutorial/
