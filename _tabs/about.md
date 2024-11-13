@@ -10,7 +10,7 @@ Welcome! My name is Laurens Keuker.
 Aspiring Autonomous Systems Engineer
 ------------------------------------------
 
-I'm an electrical engineering, information technology, and computer science student at RWTH Aachen University. Since I started programming in my second semester, I've become somewhat addicted. I've worked various student assistant jobs, in which I was able to deepen my knowledge in e.g. C++ and Python. Feel free to take a look at my resume for more information! Currently, I am working as an intern at [Jedsy](https://jedsy.com/), an autonomous drone delivery company. My strongest fascination is directed towards autonomous vehicles of any kind and how they can be used to positively impact the earth and its people. I also dedicate some of my free time to learning as much as I can about related topics, interesting software and computer science subjects and anything to do with automation and robotics.
+I'm an electrical engineering, information technology, and computer science student at RWTH Aachen University. Since I started programming in my second semester, I've become somewhat addicted. I've worked various student assistant jobs, in which I was able to deepen my knowledge in e.g. C++ and Python. Feel free to take a look at my resume for more information! Currently, I am working part time as a research and development engineer at [Jedsy](https://jedsy.com/), an autonomous drone delivery company. My strongest fascination is directed towards autonomous vehicles of any kind and how they can be used to positively impact Earth and its people. I also dedicate some of my free time to learning as much as I can about related topics, interesting software and computer science subjects and anything to do with automation and robotics.
 
 **My dream is to use my skillset to make the world a greener, cleaner and healthier place.**
 
@@ -29,9 +29,11 @@ I'm an electrical engineering, information technology, and computer science stud
 </p>
 
 **Soft Skills**
-* Persistent Learning
-* Problem Solving
-* Working in a Team
+* Persistent learning
+* Problem solving
+* Working in a team
+* Strong written and verbal communication
+* Organized and independent way of working
 
 ## Languages
 ---

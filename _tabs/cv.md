@@ -63,6 +63,24 @@ team leadership.
 Developing a UI for a ground-based pilot piloting an unmanned gyrocopter. Experience in
 GUI creation with Qt-Creator and QML.
 
+<i class="fa-solid fa-location-dot"></i> Sevelen  
+**<span style="font-size: x-large;">Jedsy</span>**  *04 - 09 2024*   
+<span style="color:#3396FF;"> *Intern* </span>  
+Research and Development in various areas of the software of a novel autonomous drone concept.
+Gaining experience in C++, Robotics, Computer Vision and strong development of soft skills.
+
+<i class="fa-solid fa-location-dot"></i> Sevelen  
+**<span style="font-size: x-large;">Jedsy</span>**  *since 10 2024*   
+<span style="color:#3396FF;"> *Research and Development Engineer, Part-Time* </span>  
+Research and Development in various areas of the software of a novel autonomous drone concept.
+Gaining experience in C++, Robotics, Computer Vision and strong development of soft skills.
+
+<i class="fa-solid fa-location-dot"></i> Aachen  
+**<span style="font-size: x-large;">Optimal Nachhilfe</span>**  *since 04 2024*   
+<span style="color:#3396FF;"> *Tutor, Freelance* </span>  
+Teaching programming and electrical engineering topics to pupils and students. 
+Improving communication and teaching skills.  
+
 # <i class="fa-solid fa-icons"></i> Other Expertise 
 ---
 
