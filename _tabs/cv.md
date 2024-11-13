@@ -70,7 +70,7 @@ GUI creation with Qt-Creator and QML.
 Solo and part of school orchestra, choir and ensembles.
 
 **<span style="font-size: x-large;">Karate</span>**  *since 2006*  
-2nd dan black belt. Successful participation in South African champoinships. Occupation as substitute coach.
+2nd dan black belt. Successful participation in South African championships. Occupation as substitute coach.
 
 **<span style="font-size: x-large;">Barista</span>**    *2016*  
 Professional barista training at award-winning Truth Coffee in Cape Town, South Africa.

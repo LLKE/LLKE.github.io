@@ -76,3 +76,9 @@ Unfortunately, motors powered by bluetooth don't exist yet.
 ## Step 1: Controlling DC Motors With the Motor Drivers
 
 https://lastminuteengineers.com/drv8833-arduino-tutorial/
+
+
+Points
++ Reading Datasheets and resulting Schaltplandesign mit KiCad
++ Schaltplandesign
++ Determining actual parts
