@@ -58,7 +58,7 @@ Leading the shift, being responsible for the shift’s smooth operation. Gaining
 team leadership.
 
 <i class="fa-solid fa-location-dot"></i> Aachen  
-**<span style="font-size: x-large;">German Aerospace Centre (DLR)</span>**  *since 2023*   
+**<span style="font-size: x-large;">German Aerospace Centre (DLR)</span>**  *08 2023 - 03 2024*   
 <span style="color:#3396FF;"> *Software Development Assistant* </span>  
 Developing a UI for a ground-based pilot piloting an unmanned gyrocopter. Experience in
 GUI creation with Qt-Creator and QML.
