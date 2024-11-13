@@ -52,7 +52,7 @@ at the RWTH Aachen learn the foundations of C++). Deepening C++ knowledge and ga
 experience teaching.
 
 <i class="fa-solid fa-location-dot"></i> Aachen   
-**<span style="font-size: x-large;">Domino's Pizza</span>**  *2022 - 2023*     
+**<span style="font-size: x-large;">Domino's Pizza</span>**  *11 2022 - 05 2023*     
 <span style="color:#3396FF;"> *Shift Manager* </span>   
 Leading the shift, being responsible for the shift’s smooth operation. Gaining experience in
 team leadership.
@@ -70,13 +70,13 @@ Research and Development in various areas of the software of a novel autonomous 
 Gaining experience in C++, Robotics, Computer Vision. Strong development of soft skills.
 
 <i class="fa-solid fa-location-dot"></i> Sevelen  
-**<span style="font-size: x-large;">Jedsy</span>**  *since 10 2024*   
+**<span style="font-size: x-large;">Jedsy</span>**  *10 2024 - present*   
 <span style="color:#3396FF;"> *Research and Development Engineer, Part-Time* </span>  
 Research and Development in various areas of the software of a novel autonomous drone concept.
 Gaining experience in C++, Robotics, Computer Vision. Strong development of soft skills.
 
 <i class="fa-solid fa-location-dot"></i> Aachen  
-**<span style="font-size: x-large;">Optimal Nachhilfe</span>**  *since 04 2024*   
+**<span style="font-size: x-large;">Optimal Nachhilfe</span>**  *04 2024 - present*   
 <span style="color:#3396FF;"> *Tutor, Freelance* </span>  
 Teaching programming and electrical engineering topics to pupils and students. 
 Improving communication and teaching skills.  
