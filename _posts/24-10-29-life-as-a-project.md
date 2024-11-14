@@ -49,3 +49,6 @@ out there, I was excited to start learning all about possible topics that I migh
 + The fact that all the time was taken up by studying did not matter and it made studying fun
 + Projecting my ambitions onto my studies as being the current project I am working on
 + Doing LinkedIn stuff with this new projection, writing about impostor syndrome, fomo etc. 
+
+## Keeping up this view
++ Setting goals to not forget what you're going through boring lectures and tedious, hard work for.
