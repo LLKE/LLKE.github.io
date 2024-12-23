@@ -74,7 +74,7 @@ Gaining experience in C++, Robotics, Computer Vision. Strong development of soft
 Teaching programming and electrical engineering topics to pupils and students. 
 Improving communication and teaching skills.  
 
-# <i class="fa-solid fa-icons"></i> Extracurricular Activies
+# <i class="fa-solid fa-mug-hot"></i> Extracurricular Activies
 
 <i class="fa-solid fa-location-dot"></i> Aachen, Germany   
 <a href="{% post_url 24-02-26-ecurie %}" style="text-decoration: none; color: inherit;">**<span style="font-size: x-large;">Ecurie Aix</span>**</a> *2018 - 2020*    
@@ -85,11 +85,13 @@ Travelling around Europe to compete.
 
 ---
 
+# <i class="fa-solid fa-icons"></i> Other Expertise
+
 **<span style="font-size: x-large;">Piano</span>**  *since 2005*  
 Solo and part of school orchestra, choir and ensembles.
 
 **<span style="font-size: x-large;">Karate</span>**  *since 2006*  
-2nd dan black belt. Successful participation in South African champoinships. Occupation as substitute coach.
+2nd dan black belt. Successful participation in South African championships. Occupation as substitute coach.
 
 **<span style="font-size: x-large;">Barista</span>**    *2016*  
 Professional barista training at award-winning Truth Coffee in Cape Town, South Africa.
