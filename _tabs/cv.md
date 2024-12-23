@@ -29,14 +29,7 @@ Systems and Automation, M.Sc.
 **<span style="font-size: x-large;">Bosch</span>** *06 - 07 2016*   
 <span style="color:#3396FF;"> *Internship* </span>   
 A glimpse into how a large-scale company runs. Acquired skills in metal works, using a lathe,
-drill, milling machines and different welding techniques.
-
-<i class="fa-solid fa-location-dot"></i> Aachen, Germany   
-<a href="{% post_url 24-02-26-ecurie %}" style="text-decoration: none; color: inherit;">**<span style="font-size: x-large;">Ecurie Aix</span>**</a> *2018 - 2020*    
-<span style="color:#3396FF;">*Driverless Software Engineer (Volunteer)*</span>  
-Development of the localization and mapping (SLAM) system of the driverless vehicle of
-Ecurie Aix (part of the Formula Student competition). Development in C++, Python, ROS.
-Travelling around Europe to compete.     
+drill, milling machines and different welding techniques.  
 
 <i class="fa-solid fa-location-dot"></i> Aachen, Germany   
 **<span style="font-size: x-large;">Institute of Automatic Control</span>**  *01 - 11 2018*  
@@ -81,7 +74,15 @@ Gaining experience in C++, Robotics, Computer Vision. Strong development of soft
 Teaching programming and electrical engineering topics to pupils and students. 
 Improving communication and teaching skills.  
 
-# <i class="fa-solid fa-icons"></i> Other Expertise 
+# <i class="fa-solid fa-icons"></i> Extracurricular Activies
+
+<i class="fa-solid fa-location-dot"></i> Aachen, Germany   
+<a href="{% post_url 24-02-26-ecurie %}" style="text-decoration: none; color: inherit;">**<span style="font-size: x-large;">Ecurie Aix</span>**</a> *2018 - 2020*    
+<span style="color:#3396FF;">*Driverless Software Engineer (Volunteer)*</span>  
+Development of the localization and mapping (SLAM) system of the driverless vehicle of
+Ecurie Aix (part of the Formula Student competition). Development in C++, Python, ROS.
+Travelling around Europe to compete.   
+
 ---
 
 **<span style="font-size: x-large;">Piano</span>**  *since 2005*  
