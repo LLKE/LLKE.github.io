@@ -32,6 +32,13 @@ A glimpse into how a large-scale company runs. Acquired skills in metal works, u
 drill, milling machines and different welding techniques.  
 
 <i class="fa-solid fa-location-dot"></i> Aachen, Germany   
+<a href="{% post_url 24-02-26-ecurie %}" style="text-decoration: none; color: inherit;">**<span style="font-size: x-large;">Ecurie Aix</span>**</a> *2018 - 2020*    
+<span style="color:#3396FF;">*Driverless Software Engineer (Volunteer)*</span>  
+Development of the localization and mapping (SLAM) system of the driverless vehicle of
+Ecurie Aix (part of the Formula Student competition). Development in C++, Python, ROS.
+Travelling around Europe to compete.  
+
+<i class="fa-solid fa-location-dot"></i> Aachen, Germany   
 **<span style="font-size: x-large;">Institute of Automatic Control</span>**  *01 - 11 2018*  
 <span style="color:#3396FF;"> *Academic Assistant* </span>  
 Software development in robotics, computer vision, augmented reality and visual attitude
@@ -76,12 +83,11 @@ Improving communication and teaching skills.
 
 # <i class="fa-solid fa-mug-hot"></i> Extracurricular Activies
 
-<i class="fa-solid fa-location-dot"></i> Aachen, Germany   
-<a href="{% post_url 24-02-26-ecurie %}" style="text-decoration: none; color: inherit;">**<span style="font-size: x-large;">Ecurie Aix</span>**</a> *2018 - 2020*    
-<span style="color:#3396FF;">*Driverless Software Engineer (Volunteer)*</span>  
-Development of the localization and mapping (SLAM) system of the driverless vehicle of
-Ecurie Aix (part of the Formula Student competition). Development in C++, Python, ROS.
-Travelling around Europe to compete.   
+<i class="fa-solid fa-location-dot"></i> Axim, Ghana  
+**<span style="font-size: x-large;">Rainbow Garden Village</span>**  *10 2023 - 11 2023*   
+<span style="color:#3396FF;"> *Volunteer* </span>  
+6 Week volunteering program at Ankobra Beach near Axim. Educating children concerning environmental awareness.
+Recycling and beach cleaning. Facilitating waste disposal for local fishermen.
 
 ---
 
