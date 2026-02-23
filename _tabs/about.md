@@ -17,7 +17,7 @@ I'm a software engineer, particularly fascinated by creating robust, safe softwa
 * <i class="fa-solid fa-earth-africa"></i>  I'm based in Aachen, Germany, currently in Cape Town until April
 * <i class="fa-solid fa-earth-africa"></i>  I'm from in Cape Town, South Africa
 * <i class="fa-solid fa-envelope"></i>  You can contact me at [laurens.keuker@gmail.com](mailto:laurens.keuker@gmail.com)
-* <i class="fa-solid fa-school"></i>  I'm currently learning about machine learning and path planning.
+* <i class="fa-solid fa-school"></i>  I'm currently learning about robustness in safety critical software.
 * <i class="fa-solid fa-handshake"></i>  I'm open to collaborating on anything to do with autonomous vehicles (sky, space, water or ground) or automation.
 
 ## Skills  
