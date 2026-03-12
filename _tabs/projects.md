@@ -5,12 +5,6 @@ icon: fa-solid fa-wrench
 order: 3
 ---
 
-## <i class="fa-solid fa-wifi"></i> Personal Website
-
-This is the project where I build the very site you are currently looking at. Also check out <a href="{% post_url 24-05-28-website %}" style="text-decoration: none; color: inherit;">this</a> post for all the details!
-
-[<i class="fa-brands fa-github"></i> **GitHub**](https://github.com/LLKE/LLKE.github.io)
-
 ## <i class="fa-solid fa-road"></i> Learning Path Planning
 
 I created this project to learn about path planning for autonomous mobile robots, a subject which has always fascinated me. 
@@ -18,6 +12,17 @@ It contains implementations of various path finding algorithms and an animation 
 
 [<i class="fa-solid fa-globe"></i> **Web App**](https://path-planning-visualizer.streamlit.app/)  
 [<i class="fa-brands fa-github"></i> **GitHub**](https://github.com/LLKE/learning-path-planning)
+
+## <i class="fa-solid fa-wifi"></i> Personal Website
+
+This is the project where I build the very site you are currently looking at. Also check out <a href="{% post_url 24-05-28-website %}" style="text-decoration: none; color: inherit;">this</a> post for all the details!
+
+[<i class="fa-brands fa-github"></i> **GitHub**](https://github.com/LLKE/LLKE.github.io)
+
+## Peer Review of a SLAM Paper
+Was granted the possibility to peer-review a SLAM paper. This was a great honour to me, and 
+an incredible opportunity to look behind the scenes of scientific publication, as well as contributing.
+[<i class="fa-solid fa-globe"></i> **Paper**](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1648309/full)
 
 ## <i class="fa-solid fa-sun"></i> Best Weather Finder
 

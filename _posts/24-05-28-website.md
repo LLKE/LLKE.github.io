@@ -181,7 +181,7 @@ lang: en
 The same goes for the time zone. Check out the according link provided to find out what time zone you are in. 
 
 #### Title and Tag Line
-On this site, the Title is "Laurens Keuker" and the tag line is "Aspiring Autonomous Systems Engineer". Go ahead and choose something catchy.
+On this site, the Title is "Laurens Keuker" and the tag line is "Autonomy Software Engineer". Go ahead and choose something catchy.
 
 #### URL
 This is the URL that your site will be hosted on later. Of course, you can host it wherever you want, but if you want to tag along with me and host your site on GitHub Pages (which is an easy and free way to host your site), change it to `"https://USERNAME.github.io"`. For me, that looks like:
