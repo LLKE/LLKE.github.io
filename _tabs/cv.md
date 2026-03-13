@@ -9,14 +9,18 @@ order: 2
 **<span style="font-size: x-large;">RWTH Aachen University</span>** 
 *2022 - 2025*  
 Systems and Automation, M.Sc.
+
 **Thesis**: Enhancing Lidar-based 3D Object Detection using Unlabeled Data for Autonomous Navigation in Maritime Environments 
+
 **Experience in**: Deep Learning, Python, PyTorch, Object Detection, Environmental Perception with LiDAR Sensors.
 
 <i class="fa-solid fa-location-dot"></i> Aachen, Germany  
 **<span style="font-size: x-large;">RWTH Aachen University</span>** 
 *2016 - 2022*  
-Electrical Engineering, Information Technology and Computer Science, B.Sc.  
+Electrical Engineering, Information Technology and Computer Science, B.Sc. 
+
 **Thesis**: Development and Comparison of AHRS-Algorithms for Accurate and Robust Attitude Estimation of an Autonomous Underwater Robot
+
 **Experience in**: MATLAB/Simulink, Attitude Estimation, Kalman Filtering, Control Theory.
 
 <i class="fa-solid fa-location-dot"></i> Cape Town, South Africa  
