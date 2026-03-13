@@ -19,9 +19,10 @@ This is the project where I build the very site you are currently looking at. Al
 
 [<i class="fa-brands fa-github"></i> **GitHub**](https://github.com/LLKE/LLKE.github.io)
 
-## Peer Review of a SLAM Paper
+## <i class="fa-solid fa-file"></i> Peer Review of a SLAM Paper
 Was granted the possibility to peer-review a SLAM paper. This was a great honour to me, and 
 an incredible opportunity to look behind the scenes of scientific publication, as well as contributing.
+
 [<i class="fa-solid fa-globe"></i> **Paper**](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1648309/full)
 
 ## <i class="fa-solid fa-sun"></i> Best Weather Finder
