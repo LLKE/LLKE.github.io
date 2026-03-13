@@ -48,7 +48,8 @@ I'm a software engineer, particularly fascinated by creating robust, safe softwa
 ## Hobbies 
 --- 
 * <i class="fa-solid fa-code"></i> Programming  
-* <i class="fa-solid fa-music"></i> Making music  
+* <i class="fa-solid fa-music"></i> Piano  
+* <i class="fa-solid fa-person-hiking"></i> Karate  
 * <i class="fa-solid fa-person-hiking"></i> Outdoor sports  
 * <i class="fa-solid fa-book"></i> Reading  
 * <i class="fa-solid fa-bowl-food"></i> Cooking  

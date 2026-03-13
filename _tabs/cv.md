@@ -10,13 +10,14 @@ order: 2
 *2022 - 2025*  
 Systems and Automation, M.Sc.
 **Thesis**: Enhancing Lidar-based 3D Object Detection using Unlabeled Data for Autonomous Navigation in Maritime Environments 
+**Experience in**: Deep Learning, Python, PyTorch, Object Detection, Environmental Perception with LiDAR Sensors.
 
----
 <i class="fa-solid fa-location-dot"></i> Aachen, Germany  
 **<span style="font-size: x-large;">RWTH Aachen University</span>** 
 *2016 - 2022*  
 Electrical Engineering, Information Technology and Computer Science, B.Sc.  
 **Thesis**: Development and Comparison of AHRS-Algorithms for Accurate and Robust Attitude Estimation of an Autonomous Underwater Robot
+**Experience in**: MATLAB/Simulink, Attitude Estimation, Kalman Filtering, Control Theory.
 
 <i class="fa-solid fa-location-dot"></i> Cape Town, South Africa  
 **<span style="font-size: x-large;">German International School</span>** 
@@ -34,48 +35,39 @@ Progressed through three roles at this autonomous drone startup. Currently leadi
 
 <i class="fa-solid fa-location-dot"></i> Aachen, Germany  
 **<span style="font-size: x-large;">Optimal Nachhilfe</span>**  *intermittently since 04 2024*   
-<span style="color:#3396FF;"> *Tutor, Freelance* </span>  
-Teaching programming and electrical engineering topics to pupils and students. 
-Improving communication and teaching skills.
+<span style="color:#3396FF;"> *Freelance Tutor* </span>  
+Delivered personalized tutoring in programming and electrical engineering to students of varying skill levels, enhancing their technical proficiency while refining my communication and teaching methodologies.
+**Experience in**: Programming, Electrical Engineering, Communication, Teaching Methodologies.
 
 <i class="fa-solid fa-location-dot"></i> Aachen, Germany  
 **<span style="font-size: x-large;">German Aerospace Centre (DLR)</span>**  *08 2023 - 03 2024*   
 <span style="color:#3396FF;"> *Software Development Assistant* </span>  
-Developing a UI for a ground-based pilot piloting an unmanned gyrocopter. Experience in
-GUI creation with Qt-Creator and QML.
-
-<i class="fa-solid fa-location-dot"></i> Aachen, Germany   
-**<span style="font-size: x-large;">Domino's Pizza</span>**  *11 2022 - 05 2023*     
-<span style="color:#3396FF;"> *Shift Manager* </span>   
-Leading the shift, being responsible for the shift’s smooth operation. Gaining experience in
-team leadership.
+Developed a user interface for ground-based piloting of an unmanned gyrocopter, gaining expertise in GUI creation with Qt-Creator and QML, and contributing to unmanned aerial vehicle control systems.
+**Experience in**: Qt-Creator, QML, UAV Control Systems.
 
 <i class="fa-solid fa-location-dot"></i> Aachen, Germany   
 **<span style="font-size: x-large;">Institute for Man-Machine Interaction</span>** *04 - 09 2020*  
 <span style="color:#3396FF;"> *Academic Assistant* </span>  
-Supervisor of a programming laboratory (in which students studying electrical engineering
-at the RWTH Aachen learn the foundations of C++). Deepening C++ knowledge and gaining
-experience teaching.
+Supervised a programming laboratory for electrical engineering students at RWTH Aachen, teaching C++ fundamentals and enhancing my technical expertise and instructional skills.
+**Experience in**: C++, Teaching, Laboratory Supervision.
 
 <i class="fa-solid fa-location-dot"></i> Aachen, Germany   
 **<span style="font-size: x-large;">Institute of Automatic Control</span>**  *01 - 11 2018*  
 <span style="color:#3396FF;"> *Academic Assistant* </span>  
-Software development in robotics, computer vision, augmented reality and visual attitude
-estimation in medical research. Experience in C++, ROS, Linux.
+Developed software for robotics, computer vision, augmented reality, and visual attitude estimation in medical research, gaining expertise in C++, ROS, and Linux.
+**Experience in**: C++, ROS, Linux, Robotics, Computer Vision, Augmented Reality, Visual Attitude Estimation.
 
 <i class="fa-solid fa-location-dot"></i> Aachen, Germany   
 <a href="{% post_url 24-02-26-ecurie %}" style="text-decoration: none; color: inherit;">**<span style="font-size: x-large;">Ecurie Aix</span>**</a> *2018 - 2020*    
 <span style="color:#3396FF;">*Driverless Software Engineer (Volunteer)*</span>  
-Development of the localization and mapping (SLAM) system of the driverless vehicle of
-Ecurie Aix (part of the Formula Student competition). Development in C++, Python, ROS.
-Travelling around Europe to compete.  
+Developed the localization and mapping (SLAM) system for Ecurie Aix's driverless vehicle in the Formula Student competition, utilizing C++, Python, and ROS. Traveled across Europe to compete, gaining hands-on experience in autonomous systems and teamwork.
+**Experience in**: C++, Python, ROS, SLAM, Autonomous Systems.
 
 <i class="fa-solid fa-location-dot"></i> Stuttgart, Germany  
 **<span style="font-size: x-large;">Bosch</span>** *06 - 07 2016*   
 <span style="color:#3396FF;"> *Internship* </span>   
-A glimpse into how a large-scale company runs. Acquired skills in metal works, using a lathe,
-drill, milling machines and different welding techniques.  
-
+Completed an internship at Bosch, gaining insight into large-scale manufacturing operations and acquiring hands-on skills in metalworking, including lathe operation, drilling, milling, and welding techniques.
+**Experience in**: Metalworking, Lathe Operation, Drilling, Milling, Welding.
 
 # <i class="fa-solid fa-mug-hot"></i> Extracurricular Activies
 
@@ -84,6 +76,17 @@ drill, milling machines and different welding techniques.
 <span style="color:#3396FF;"> *Volunteer* </span>  
 6 Week volunteering program at Ankobra Beach near Axim. Educating children concerning environmental awareness.
 Recycling and beach cleaning. Facilitating waste disposal for local fishermen.
+
+# <i class="fa-solid fa-plus"></i> Additional Experience
+
+**<span style="font-size: x-large;">Barista</span>**    *2016*  
+Professional barista training at award-winning Truth Coffee in Cape Town, South Africa.
+Worked full time as a barista.
+
+**<span style="font-size: x-large;">Domino's Pizza</span>**  *11 2022 - 05 2023*     
+<span style="color:#3396FF;"> *Shift Manager* </span>   
+Leading the shift, being responsible for the shift’s smooth operation. Gaining experience in
+team leadership.
 
 ---
 
@@ -94,7 +97,3 @@ Solo and part of school orchestra, choir and ensembles.
 
 **<span style="font-size: x-large;">Karate</span>**  *since 2006*  
 2nd dan black belt. Successful participation in South African championships. Occupation as substitute coach.
-
-**<span style="font-size: x-large;">Barista</span>**    *2016*  
-Professional barista training at award-winning Truth Coffee in Cape Town, South Africa.
-Worked full time as a barista.
