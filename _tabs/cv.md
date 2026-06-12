@@ -32,7 +32,7 @@ Bilingual (German/ English) general qualification for university entrance (Abitu
 # <i class="fas fa-laptop"></i> Work Experience 
 
 <i class="fa-solid fa-location-dot"></i> Sevelen, Switzerland  
-**<span style="font-size: x-large;">Jedsy</span>**  *04 2024 - present*   
+**<span style="font-size: x-large;">Jedsy</span>**  *04 2024 - 05 2026*   
 <span style="color:#3396FF;"> *Guidance, Navigation, Control Engineer (from 01 2026)* </span>  
 Progressed through three roles at this autonomous drone startup. Currently leading development of safety-critical systems including real-time traffic visualization for a Qt-based ground control station and a traffic avoidance system. Coordinating software releases, testing, and code reviews. Previously contributed to R&D in autonomous drone software and developed foundations for an autonomous wall landing system. 
 **Experience in**: C++, Robotics, Computer Vision, Qt/QML, Linux, UAV systems, Flight log analysis. Strong development of soft skills and leadership.
