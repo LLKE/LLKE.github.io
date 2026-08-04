@@ -5,6 +5,13 @@ icon: fa-solid fa-wrench
 order: 3
 ---
 
+## <i class="fa fa-plane" aria-hidden="true"></i> Flight Laboratory
+
+I created this project to learn about avionics and GNC (guidance, navigation and control).
+The plan is to create a platform to build and learn anything I find interesting in those areas, starting out with an artificial horizon.
+
+[<i class="fa-brands fa-github"></i> **GitHub**](https://github.com/LLKE/flight-laboratory)
+
 ## <i class="fa-solid fa-road"></i> Learning Path Planning
 
 I created this project to learn about path planning for autonomous mobile robots, a subject which has always fascinated me. 
